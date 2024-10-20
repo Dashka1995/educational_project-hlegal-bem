@@ -1,0 +1,33 @@
+{
+  "name": "hlegal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dashka1995/educational_project-hlegal.git"
+  },
+  "author": "www.linkedin.com/in/дария-долгая-151314324",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dashka1995/educational_project-hlegal/issues"
+  },
+  "homepage": "https://github.com/Dashka1995/educational_project-hlegal#readme",
+  "dependencies": {
+    "gulp": "^5.0.0",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-csso": "^4.0.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-rimraf": "^1.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.79.3"
+  },
+  "browserslist": [
+    "last 5 version"
+  ]
+}
